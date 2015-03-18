@@ -1,10 +1,14 @@
 **Admiral** (UK)  
 AA Range: 13.5 - 16%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Bred as a replacement for Target with a less harsh bitterness. Weak aroma with mild citrus character.  
 *Substitutes*: Target, Challenger
 
 **Ahtanum** (US)  
 AA Range: 5.7 - 6.3%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Citrus and floral character, with grapefruit qualities said to be stronger than in Cascade. Ahtanum may also feature resiny or earth notes.  
 *Substitutes*: Cascade, Amarillo
 
@@ -24,11 +28,15 @@ Characteristics: Orange, with some resin. Dank.
 
 **Aramis** (US)  
 AA Range: 8%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Herbal, floral, earthy, lemon.  
 *Substitutes*: N/A
 
 **Aurora** (Slovenia)  
 AA Range: 7 - 9%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: General "hoppy" aroma, fruity.  
 *Substitutes*: Styrian Golding, Premiant, Northern Brewer
 
@@ -37,36 +45,49 @@ AA Range: 14 - 16%
 Beta: 5.4%  
 Cohumulone: N/A  
 Characteristics: Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple.
+*Substitutes*: N/A
 
 **Belma** (US)  
 AA Range: 12%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Clean fruity hoppiness; strawberry, melon, mild citrus. Click through for my experience with Belma in a single hop IPA.  
 *Substitutes*: Pacific Gem
 
 **Bramling Cross** (UK)  
 AA Range: 7 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Strong and spicy English hop. Fruity blackcurrant and lemon citrus.  
 *Substitutes*: East Kent Goldings, Progress, Brewer's Gold
 
 **Bravo** (US)  
 AA Range: 14 - 17%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Smooth, mild flavor; fruity, floral. Clean bittering.  
 *Substitutes*: Warrior
 
 **Brewer's Gold** (UK)  
 AA Range: 5 - 8%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Early bittering hop. Resiny, spicy. Black currant aroma.  
 *Substitutes*: Bullion, Galena, Bramling Cross
 
 **Bullion** (US)  
 AA Range: 7 - 9%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Early, traditional bittering hop for stouts. Resiny, earthy; pungent black currant or raspberry aroma.  
 *Substitutes*: Brewer's Gold, Galena
 
 **Calypso** (US)  
 AA Range: 12-14%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Lemony aroma, tart apple, earthy tea.  
-*Substitutes*: n/a
+*Substitutes*: N/A
 
 **Cascade** (US)  
 AA Range: 7.7 - 9.1%  
@@ -91,6 +112,8 @@ Characteristics: Balanced fruity citrus / stone-fruit character. Smooth bitterne
 
 **Challenger** (UK)  
 AA Range: 6 - 9%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Clean bittering hop with strong, spicy aroma.  
 *Substitutes*: Perle, Target, Phoenix, EKG
 
@@ -110,6 +133,8 @@ Characteristics: Potent aroma of intense mango, tropical fruit and citrus. Flavo
 
 **Cluster** (US)  
 AA Range: 5.5 - 8.5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Pungent bittering hop; spicy, floral aroma. One of the original American hops.  
 *Substitutes*: Galena, Northern Brewer
 
@@ -122,11 +147,15 @@ Characteristics: Dank, earthy, resin.
 
 **Comet** (US)  
 AA Range: 9 - 11%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Intense wild American grapefruit / citrus character; extremely dank.  
 *Substitutes*: Summit
 
 **Crystal** (US)  
 AA Range: 2 - 5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: American grown Hallertau hybrid. Flowery, spicy aroma. Sister hop to Mount Hood and Liberty.  
 *Substitutes*: Mt. Hood, Hersbrucker, Liberty, Hallertau
 
@@ -153,6 +182,8 @@ Characteristics: A popular, traditional English hop with gentle fragrant aroma. 
 
 **El Dorado** (US)  
 AA Range: 14 - 16%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: An intense, candy-like aroma of cherry, pear and fruit. Can taste like cherry Jolly Ranchers in extra-hoppy beers.  
 *Substitutes*: Sounds pretty unique, sorry folks
 
@@ -165,21 +196,29 @@ Characteristics: Lemon, lime, papaya, apple, green pepper, floral, herbal.
 
 **Falconers Flight** (US)  
 AA Range: 10.5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Tropical, citrus, floral, lemon and grapefruit.  
 *Substitutes*: Cascade, Ahtanum, Sorachi Ace
 
 **Falconers Seven Seas** (US)  
 AA Range: 9 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Fruity, citrus, spicy, earthy. A cross-breed of 7 "C" variety hops. (Get it?)  
 *Substitutes*: Simcoe 
 
 **First Gold** (UK)  
 AA Range: 6 - 9%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: A child hybrid of Goldings, similar in aroma; spicy. Woody, minty flavor and aroma.  
 *Substitutes*: Eat Kent Goldings, Fuggle, Crystal
 
 **Fuggle** (UK)  
 AA Range: 4 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Woody, earthy. Mildly spicy.  
 *Substitutes*: Williamette, Styrian Goldings
 
@@ -192,16 +231,22 @@ Characteristics: Tropical passionfruit, citrus hints of peach, mango. Similar to
 
 **Galena** (UK)  
 AA Range: 11 - 14%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Fruity black currant; citrus.  
 *Substitutes*: Legacy, Brewer's Gold, Nugget
 
 **Glacier** (US)  
 AA Range: 5 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Earthy/floral character with a sweet citrus.  
 *Substitutes*: Williamette, Styrian Goldings
 
 **Green Bullet** (NZ)  
 AA Range: 10 - 14%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Fruity, resiny; described as having a distinct raisin-like character.  
 *Substitutes*: Possibly Galena
 
@@ -221,6 +266,8 @@ Characteristics: Less spicy than Mittelfrüh, with a floral and citrus / lime ch
 
 **Hallertau Blanc** (GER)  
 AA Range: 9 - 12%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Flowery-fruity aroma, passion fruit, grapefruit, gooseberry and pineapple.  
 *Substitutes*: Sounds like it could be the German response to Galaxy / Nelson Sauvin?
 
@@ -234,16 +281,21 @@ Characteristics: Versatile, classic hop with mild spicy, flowery, earthy aroma. 
 **Helga** (AUS)  
 AA Range: 5 - 6.3%  
 Beta: 4.6%  
+Cohumulone: N/A  
 Characteristics: Noble-ish aroma, flowery, mild. (I like that the few sites I've found with this hop describe it as "good for Ales and lagers." Gee, thanks.)  
 *Substitutes*: Hallertau Mittelfrueh, Hersbrucker 
 
 **Herald** (UK)  
 AA Range: 9 - 13%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: A sister of Pioneer; strong bitterness with citrus and grapefruit.  
 *Substitutes*: Pioneer
 
 **Herkules** (GER)  
 AA Range: 12 - 17%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Slightly fruity, spicy aroma.  
 *Substitutes*: Horizon, Magnum, (Hallertau) Taurus
 
@@ -256,11 +308,15 @@ Characteristics: Moderate-intensity floral character, spice and fruit.
 
 **Horizon** (US)  
 AA Range: 10 - 16%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Citrus and floral, fragrant aroma. Possibly some spice / resin. Clean bittering.  
 *Substitutes*: Magnum, Amarillo
 
 **Hüll Melon** (GER)  
 AA Range: 6.9 - 7.5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Strawberry and honeydew, melon nuances.  
 *Substitutes*: N/A
 
@@ -273,39 +329,57 @@ Characteristics: Intense floral characters, grapefruit, pine needles, tropical f
 
 **Legacy** (US)  
 AA Range: ~7 - 8%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Floral, blackcurrant, spicy.  
 *Substitutes*: Cluster, Galena
 
 **Liberty** (US)  
 AA Range: 3 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mild, slightly spicy, resiny. Sometimes considered a noble hop.  
 *Substitutes*: Hallertau
 
 **Lublin** (Poland)  
-A Polish-bred descendant of Czech Saaz.  
+AA Range:  
+Beta: N/A  
+Cohumulone: N/A  
+Characteristics: A Polish-bred descendant of Czech Saaz.  
+*Substitutes*: N/A
 
 **Marynka** (Poland)  
 AA Range: 7 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Earthy, rooty, liquorice.  
 *Substitutes*: Perle, Chinook
 
 **Magnum** (GER)  
 AA Range: 11 - 15%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Very clean bittering with mild, faint aroma.  
 *Substitutes*: Horizon
 
 **Mandarina Bavaria** (GER)  
 AA Range: 7 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Intense mandarin, citrus notes.  
 *Substitutes*: N/A
 
 **Meridian** (US)  
 AA Range: 6 - 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Not much info on this one yet; I've read that Meridian offers citrus, lemon, with some tropical fruit and floral characteristics.  
 *Substitutes*: Citra, Amarillo, Sorachi Ace.. ?
 
 **Merkur** (GER)  
 AA Range: 12 - 15%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Similar to Magnum for bittering, but with an earthy, floral aroma.  
 *Substitutes*: Magnum, Horizon
 
@@ -325,16 +399,22 @@ Characteristics: Mango, stone fruit, berry medley, melon. Mild herbal character 
 
 **Motueka** (NZ)  
 AA Range: 6.5 -7.5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Lemony, tropical fruit, spice.  
 *Substitutes*: Saaz
 
 **Mount Hood** (US)  
 AA Range: 5 - 8%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mild and clean aroma and flavor.  
 *Substitutes*: Hallertauer, Tettnanger
 
 **Mount Rainier** (US)  
 AA Range: 5 - 8%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Hallertauer with higher AA; aroma of citrus and licorice.  
 *Substitutes*: Hallertauer, Fuggles
 
@@ -347,76 +427,106 @@ Characteristics: White wine, grapefruit, tangy berries. Dank and intensely fruit
 
 **Newport** (US)  
 AA Range: 12 - 15%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mild aroma; good bittering.  
 *Substitutes*: Magnum
 
 **Northdown** (UK)  
 AA Range: 6 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Clean bitterness and a distinct woody, minty flavor.  
 *Substitutes*: Northern Brewer
 
 **Northern Brewer** (UK)  
 AA Range: 8 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Good bitterness and neutral, mild flavor.  
 *Substitutes*: Northdown, Perle, Aurora
 
 **Nugget** (US)  
 AA Range: 10 - 14%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Somewhat heavy, herbal bitterness and aroma.  
 *Substitutes*: Galena, Columbus
 
 **Opal** (GER)  
 AA Range: 8 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Moderate bitterness, spicy, fruity, floral.  
 *Substitutes*: Saphir, East Kent Goldings
 
 **Pacific Gem** (NZ)  
 AA Range: 13 - 16%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. Click through for notes on my Pacific Gem single hop pale ale.  
 *Substitutes*: Belma
 
 **Pacifica** (NZ)  
 AA Range: 5 -6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Orange marmalade flavor, with some citrus and floral character as well.  
 *Substitutes*: Possibly a combination of Mittlefruh and Amarillo.
 
 **Pacific Jade** (NZ)  
 AA Range: 12 - 14%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Soft bitterness. Bold aroma of citrus and crushed black pepper.  
 *Substitutes*: Magnum
 
 **Palisade** (US)  
 AA Range: 5.5 - 9.5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Fruity but non-citrusy aroma; earthy undertones.  
 *Substitutes*: Willamette
 
 **Perle** (GER)  
 AA Range: 6 - 8%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Spicy, minty aroma of moderate intensity and balanced bittering.  
 *Substitutes*: Northern Brewer, Northdown
 
 **Phoenix** (UK)  
 AA Range: 7 - 11%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Spicy "English Ale" aroma with clean bittering.  
 *Substitutes*: Challenger, Northern Brewer
 
 **Pilgrim** (UK)  
 AA Range: 9 - 13%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Spicy earthy character.  
 *Substitutes*: Target
 
 **Pioneer** (UK)  
 AA Range: 8 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Citrus (less aggressive than American hops; more "English")  
 *Substitutes*: EKG
 
 **Polaris** (GER)  
 AA Range: 19 - 23%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Minty.  
 *Substitutes*: N/A
 
 **Premiant** (Czech Republic)  
 AA Range: 7 - 10%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mild, pleasant aroma.  
 *Substitutes*: Styrian Goldings, perhaps Saaz and Aurora
 
@@ -429,6 +539,8 @@ Characteristics: Unique, intense aroma describe as "coarse," citrusy, herbal. Ub
 
 **Progress** (UK)  
 AA Range: 5 - 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mildly spicy or woody, hint of juniper, similar to Fuggle but slightly sweeter.  
 *Substitutes*: Fuggle
 
@@ -441,42 +553,59 @@ Characteristics: Grassy and spicy upfront, with some peach and tangerine in the 
 
 **Riwaka** (NZ)  
 AA Range: 5 - 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Strong grapefruit citrus character.  
 *Substitutes*: Cascade
 
 **Saaz** (Czech Republic)  
 AA Range: 3 - 5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Soft aroma and bitterness, maybe the quintessential "spicy" hop. Noble hop traditionally used for pilsners.  
 *Substitutes*: Sterling, Spalt
 
 **San Juan Ruby Red** (US)  
 AA Range: 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Wild growing hop discovered in CO. Fruity, slightly sweet.  
 *Substitutes*: n/a
 
 **Santiam** (US)  
 AA Range: 5 - 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Similar to Tettnanger. Herbal, floral.  
 *Substitutes*: Tettnanger
 
 **Saphir** (GER)  
 AA Range: 3 - 5.5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Sweet, clean, spicy; citrusy with an almost tangerine aroma.  
 *Substitutes*: Hallertau
 
 **Satus** (US)  
 AA Range: 12.5 - 14.0%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Similar to Galena.  
 *Substitutes*: Galena
 
 **Select** (GER)  
 AA Range: 4 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Bred to be similar to Spalt, Tettnang, Saaz.  
 *Substitutes*: Spalt, Tettnang, Saaz
 
 **Serebrianka** (Russia)  
 AA Range: 3.5%  
-Characteristics: Light perfume aroma.
+Beta: N/A  
+Cohumulone: N/A  
+Characteristics: Light perfume aroma.  
+*Substitutes*: N/A
 
 **Simcoe** (US)  
 AA Range: 11 - 14%  
@@ -487,30 +616,43 @@ Characteristics: Pine and citrus, sweet berries and perfume. Unique, complex fla
 
 **Smaragd** (GER)  
 AA Range: 4 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: A new European response to Amarillo. Fruity nose, flowery; more prominent aroma than most European varieties; balanced subdued fruitiness.  
 *Substitutes*: Try a combo of German and American hops
 
 **Sonnet Golding** (US)  
 AA Range: 6.6%  
-Characteristics: Similar characteristics to Golding hops.
+Beta: N/A  
+Cohumulone: N/A  
+Characteristics: Similar characteristics to Golding hops.  
+*Substitutes*: N/A
 
 **Sorachi Ace** (Japan)  
 AA Range: 12 - 16%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Lemony, Lemongrass, lemon-cream flavor.  
 *Substitutes*: Southern Cross
 
 **Southern Cross** (NZ)  
 AA Range: 11 - 14%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Lemon, lime, pine.  
 *Substitutes*: Sorachi Ace
 
 **Sovereign** (UK)  
 AA Range: 4 - 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Earthy, nutty, pine.  
 *Substitutes*: Fuggle
 
 **Spalt** (GER)  
 AA Range: 3.5 - 5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Spicy, Noble hop aroma.  
 *Substitutes*: Saaz, Tettnang
 
@@ -523,20 +665,29 @@ Characteristics: Spicy, earthy, hints of star anise. Floral.
 
 **Sterling** (US)  
 AA Range: 5 - 9%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Floral, spicy, slight citrus aroma.  
 *Substitutes*: Saaz
 
 **Sticklebract** (NZ)  
 AA Range: 11 - 14%  
-Characteristics: Piney, citrus. Harsher bittering.
+Beta: N/A  
+Cohumulone: N/A  
+Characteristics: Piney, citrus. Harsher bittering.  
+*Substitutes*: N/A
 
 **Strisselspalt** (France)  
 AA Range: 3 - 5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mild Noble-like flavor, spicy, herbal.  
 *Substitutes*: Hersbrucker, Hallertau 
 
 **Styrian Goldings** (Slovenia)  
 AA Range: 4.5 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Mild, spicy aroma.  
 *Substitutes*: Aurora, Fuggle, Williamette
 
@@ -549,6 +700,8 @@ Characteristics: Apricot, orange marmalade, melon notes; undercurrent of mild ea
 
 **Summit** (US)  
 AA Range: 17 - 19%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Smooth bittering with orange, tangerine, citrus character.  
 *Substitutes*: Apollo
 
@@ -561,9 +714,15 @@ Characteristics: Unique, intense aroma describe as "coarse," citrusy, herbal. Ub
 
 **Sun** (US)  
 AA Range: 12 - 16%
+Beta: N/A  
+Cohumulone: N/A  
+Characteristics:  
+*Substitutes*: N/A
 
 **Super Alpha** (NZ)  
 AA Range: 10 - 12%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Piney, grassy, lemongrass.  
 *Substitutes*: N/A
 
@@ -576,16 +735,22 @@ Characteristics: Citrus and lemon notes; cedar, pine, floral, subtle melon.
 
 **Target** (UK)  
 AA Range: 8 - 13%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Herbal, earthy, grassy.  
 *Substitutes*: Admiral
 
 **(Hallertau) Taurus** (GER)  
 AA Range: 12 - 17%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Noble, aromatic, zesty.  
 *Substitutes*: Horizon, Herkules, Magnum
 
 **Tettnang** (GER)  
 AA Range: 3.5 - 5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Herbal, slightly spicy, woody.  
 *Substitutes*: Saaz, Spalt, Ultra
 
@@ -598,6 +763,8 @@ Characteristics: Lychee fruit, tangerine, spice and resin. Touch of citrus.
 
 **Tradition** (GER)  
 AA Range: 5 - 7%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Sweetly flowery, earthy. Bred to be stronger version of Hallertau.  
 *Substitutes*: Hallertau, Liberty
 
@@ -610,16 +777,22 @@ Characteristics: Notes of melon, orange citrus, resin, spice and pepper.
 
 **Ultra** (US)  
 AA Range: 4.5 - 5%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Spicy, floral, mild. Noble hop replacement.  
 *Substitutes*: Saaz, Spalt, Tettnang
 
 **Vanguard** (US)  
 AA Range: 5 - 6%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Slightly flowery, herbal, and mild. Similar to Hallertau.  
 *Substitutes*: Hallertau, Spalt, Tettnang
 
 **Waimea** (NZ)  
 AA Range: 15 - 16%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Pine needles, citrus fruit, grapefruit, tangerine.  
 *Substitutes*: N/A
 
@@ -632,6 +805,8 @@ Characteristics: Mildly spicy, with a floral and citrus / lime character. Also k
 
 **Warrior** (US)  
 AA Range: 15 - 17%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Clean, mellow flavor; mild citrus lemon character.  
 *Substitutes*: Bravo, possibly Apollo or Magnum
 
@@ -649,10 +824,9 @@ Cohumulone: 21 - 23%
 Characteristics: Cross between early American Cluster and a native Slovenian male with mild and pleasant character.  
 *Substitutes*: Pearl
 
-**Zeus**  
-See: Columbus/Tomahawk.
-
 **Zythos** (US)  
 AA Range: 10 - 12%  
+Beta: N/A  
+Cohumulone: N/A  
 Characteristics: Strongly aromatic, with tangerine, lemon, grapefruit, and pine notes.  
 *Substitutes*: Cascade, Ahtanum, Sorachi Ace
