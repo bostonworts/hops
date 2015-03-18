@@ -1,5 +1,5 @@
 | Hop | AA Range |   |   |   |   |
-|---|---|---|---|---|---|
+|---|:---:|---|---|---|---|
 | **Admiral** (UK) | 13.5 - 16% | Characteristics: Bred as a replacement for Target with a less harsh bitterness. Weak aroma with mild citrus character. | *Substitutes*: Target, Challenger|
 | **Ahtanum** (US) | 5.7 - 6.3% | Characteristics: Citrus and floral character, with grapefruit qualities said to be stronger than in Cascade. Ahtanum may also feature resiny or earth notes. | *Substitutes*: Cascade, Amarillo|
 | **Amarillo** (US) | 8 - 11% | Beta: 6 - 7% | Cohumulone: 21 - 24% | Characteristics: Floral, grapefruit, citrus, peach. | *Substitutes*: Cascade, Centennial, Citra|
