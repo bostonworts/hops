@@ -44,7 +44,7 @@ Characteristics: General "hoppy" aroma, fruity.
 AA Range: 14 - 16%  
 Beta: 5.4%  
 Cohumulone: N/A  
-Characteristics: Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple.
+Characteristics: Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple.  
 *Substitutes*: N/A
 
 **Belma** (US)  
@@ -713,10 +713,10 @@ Characteristics: Unique, intense aroma describe as "coarse," citrusy, herbal. Ub
 *Substitutes*: Cluster, Galena 
 
 **Sun** (US)  
-AA Range: 12 - 16%
+AA Range: 12 - 16%  
 Beta: N/A  
 Cohumulone: N/A  
-Characteristics:  
+Characteristics: N/A  
 *Substitutes*: N/A
 
 **Super Alpha** (NZ)  
