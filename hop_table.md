@@ -1,13 +1,12 @@
 | Hop | AA Range | Beta | Cohumulone | Characteristics | *Substitutes* |
-|---|---|---|---|---|---|
+|---|:---:|:---:|:---:|---|---|
 | **Admiral** (UK) | 13.5 - 16% | N/A | N/A | Bred as a replacement for Target with a less harsh bitterness. Weak aroma with mild citrus character. | Target, Challenger|
 | **Ahtanum** (US) | 5.7 - 6.3% | N/A | N/A | Citrus and floral character, with grapefruit qualities said to be stronger than in Cascade. Ahtanum may also feature resiny or earth notes. | Cascade, Amarillo|
 | **Amarillo** (US) | 8 - 11% | 6 - 7% | 21 - 24% | Floral, grapefruit, citrus, peach. | Cascade, Centennial, Citra|
 | **Apollo** (US) | 18 - 22% | 5.5 - 8% | 24 - 28% | Orange, with some resin. Dank. | Summit|
 | **Aramis** (US) | 8% | N/A | N/A | Herbal, floral, earthy, lemon. | N/A|
 | **Aurora** (Slovenia) | 7 - 9% | N/A | N/A | General "hoppy" aroma, fruity. | Styrian Golding, Premiant, Northern Brewer|
-| **Azacca** (US) | 14 - 16% | 5.4% | N/A | Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple.
-N/A|
+| **Azacca** (US) | 14 - 16% | 5.4% | N/A | Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple. | N/A|
 | **Belma** (US) | 12% | N/A | N/A | Clean fruity hoppiness; strawberry, melon, mild citrus. Click through for my experience with Belma in a single hop IPA. | Pacific Gem|
 | **Bramling Cross** (UK) | 7 - 10% | N/A | N/A | Strong and spicy English hop. Fruity blackcurrant and lemon citrus. | East Kent Goldings, Progress, Brewer's Gold|
 | **Bravo** (US) | 14 - 17% | N/A | N/A | Smooth, mild flavor; fruity, floral. Clean bittering. | Warrior|
@@ -103,8 +102,7 @@ N/A|
 | **Summer** (AUS) | 4 - 7% | 4.8 - 6.1% | 23 - 25% | Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. Click through for notes on my Summer hopped pale ale. | Possibly Rakau, Amarillo|
 | **Summit** (US) | 17 - 19% | N/A | N/A | Smooth bittering with orange, tangerine, citrus character. | Apollo|
 | **Super Pride** (AUS) | 9 - 10.5% | 5.5 - 6% | 32% | Unique, intense aroma describe as "coarse," citrusy, herbal. Ubiquitous Australian hop. | Cluster, Galena |
-| **Sun** (US) | 12 - 16%
-N/A | N/A | | N/A|
+| **Sun** (US) | 12 - 16% | N/A | N/A | N/A | N/A|
 | **Super Alpha** (NZ) | 10 - 12% | N/A | N/A | Piney, grassy, lemongrass. | N/A|
 | **Tahoma** (US) | 7.2 - 8.2% | 8.5 - 9.5% | 15 - 17% | Citrus and lemon notes; cedar, pine, floral, subtle melon. | N/A|
 | **Target** (UK) | 8 - 13% | N/A | N/A | Herbal, earthy, grassy. | Admiral|
