@@ -1,122 +1,123 @@
-| Hop | AA Range |   |   |   |   |
-|---|:---:|---|---|---|---|
-| **Admiral** (UK) | 13.5 - 16% | Characteristics: Bred as a replacement for Target with a less harsh bitterness. Weak aroma with mild citrus character. | *Substitutes*: Target, Challenger|
-| **Ahtanum** (US) | 5.7 - 6.3% | Characteristics: Citrus and floral character, with grapefruit qualities said to be stronger than in Cascade. Ahtanum may also feature resiny or earth notes. | *Substitutes*: Cascade, Amarillo|
-| **Amarillo** (US) | 8 - 11% | Beta: 6 - 7% | Cohumulone: 21 - 24% | Characteristics: Floral, grapefruit, citrus, peach. | *Substitutes*: Cascade, Centennial, Citra|
-| **Apollo** (US) | 18 - 22% | Beta: 5.5 - 8% | Cohumulone: 24 - 28% | Characteristics: Orange, with some resin. Dank. | *Substitutes*: Summit|
-| **Aramis** (US) | 8% | Characteristics: Herbal, floral, earthy, lemon. | *Substitutes*: N/A|
-| **Aurora** (Slovenia) | 7 - 9% | Characteristics: General "hoppy" aroma, fruity. | *Substitutes*: Styrian Golding, Premiant, Northern Brewer|
-| **Azacca** (US) | 14 - 16% | Beta: 5.4% | Cohumulone: N/A | Characteristics: Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple.|
-| **Belma** (US) | 12% | Characteristics: Clean fruity hoppiness; strawberry, melon, mild citrus. Click through for my experience with Belma in a single hop IPA. | *Substitutes*: Pacific Gem|
-| **Bramling Cross** (UK) | 7 - 10% | Characteristics: Strong and spicy English hop. Fruity blackcurrant and lemon citrus. | *Substitutes*: East Kent Goldings, Progress, Brewer's Gold|
-| **Bravo** (US) | 14 - 17% | Characteristics: Smooth, mild flavor; fruity, floral. Clean bittering. | *Substitutes*: Warrior|
-| **Brewer's Gold** (UK) | 5 - 8% | Characteristics: Early bittering hop. Resiny, spicy. Black currant aroma. | *Substitutes*: Bullion, Galena, Bramling Cross|
-| **Bullion** (US) | 7 - 9% | Characteristics: Early, traditional bittering hop for stouts. Resiny, earthy; pungent black currant or raspberry aroma. | *Substitutes*: Brewer's Gold, Galena|
-| **Calypso** (US) | 12-14% | Characteristics: Lemony aroma, tart apple, earthy tea. | *Substitutes*: n/a|
-| **Cascade** (US) | 7.7 - 9.1% | Beta: 6.4 - 7.1% | Cohumulone: 33 - 40% | Characteristics: Ubiquitous American hop; citrusy grapefruit character. | *Substitutes*: Centennial|
-| **Cashmere** (US) | 4.5 - 7.0% | Beta: 4.8 - 7% | Cohumulone: 22 - 24% | Characteristics: Mild herbal aroma with strong melon, lemon, lime and slightly spicy notes. Daughter of Cascade. | *Substitutes*: N/A|
-| **Centennial** (US) | 9 - 12% | Beta: 3.5 - 4.5% | Cohumulone: 28 - 30% | Characteristics: Balanced fruity citrus / stone-fruit character. Smooth bitterness. | *Substitutes*: Cascade, Citra|
-| **Challenger** (UK) | 6 - 9% | Characteristics: Clean bittering hop with strong, spicy aroma. | *Substitutes*: Perle, Target, Phoenix, EKG|
-| **Chinook** (US) | 11 - 14% | Beta: 3 - 4% | Cohumulone: 29 - 34% | Characteristics: Spicy, piney flavor with some grapefruit. | *Substitutes*: Nugget, Columbus, Northern Brewer|
-| **Citra** (US) | 10 - 12% | Beta: 3.5 - 4.5% | Cohumulone: 22 - 24% | Characteristics: Potent aroma of intense mango, tropical fruit and citrus. Flavor is a bit smoother, less specific but still intense. Extremely effective as a dry hop and late addition hop. I've heard complaints about Citra as a bittering hop. | *Substitutes*: Galaxy, Centennial, Nelson Sauvin|
-| **Cluster** (US) | 5.5 - 8.5% | Characteristics: Pungent bittering hop; spicy, floral aroma. One of the original American hops. | *Substitutes*: Galena, Northern Brewer|
-| **Columbus / Tomahawk / Zeus (CTZ)** (US) | 14 - 16% | Beta: 4.5 - 5.5% | Cohumulone: 30 - 35% | Characteristics: Dank, earthy, resin. | *Substitutes*: Chinook, Nugget|
-| **Comet** (US) | 9 - 11% | Characteristics: Intense wild American grapefruit / citrus character; extremely dank. | *Substitutes*: Summit|
-| **Crystal** (US) | 2 - 5% | Characteristics: American grown Hallertau hybrid. Flowery, spicy aroma. Sister hop to Mount Hood and Liberty. | *Substitutes*: Mt. Hood, Hersbrucker, Liberty, Hallertau|
-| **Dana** (Slovenia) | 11 - 16% | Beta: 4.8 - 6% | Cohumulone: 28 - 31% | Characteristics: A psuedo-Noble hop with a rustic, musty spiciness and mild bitterness. | *Substitutes*: N/A|
-| **Delta** (US) | 5.5 - 7% | Beta: 5.5 - 7% | Cohumulone: 22 - 24% | Characteristics: Slightly spicy with a hint of citrus. (Delta is a cross between Fuggles and Cascade). Described as subtle and mild. | *Substitutes*: N/A|
-| **East Kent Goldings** (UK) | 4.5 - 6.5% | Beta: 1.9 - 2.8% | Cohumulone: 28 - 32% | Characteristics: A popular, traditional English hop with gentle fragrant aroma. Smooth, spicy and floral. Has defined English ales for centuries. | *Substitutes*: Fuggle, First Gold, Williamette |
-| **El Dorado** (US) | 14 - 16% | Characteristics: An intense, candy-like aroma of cherry, pear and fruit. Can taste like cherry Jolly Ranchers in extra-hoppy beers. | *Substitutes*: Sounds pretty unique, sorry folks|
-| **Equinox** (US) | 14.4 - 15.6% | Beta: 4.6 - 5.1% | Cohumulone: 31.7 - 38% | Characteristics: Lemon, lime, papaya, apple, green pepper, floral, herbal. | *Substitutes*: N/A|
-| **Falconers Flight** (US) | 10.5% | Characteristics: Tropical, citrus, floral, lemon and grapefruit. | *Substitutes*: Cascade, Ahtanum, Sorachi Ace|
-| **Falconers Seven Seas** (US) | 9 - 10% | Characteristics: Fruity, citrus, spicy, earthy. A cross-breed of 7 "C" variety hops. (Get it?) | *Substitutes*: Simcoe |
-| **First Gold** (UK) | 6 - 9% | Characteristics: A child hybrid of Goldings, similar in aroma; spicy. Woody, minty flavor and aroma. | *Substitutes*: Eat Kent Goldings, Fuggle, Crystal|
-| **Fuggle** (UK) | 4 - 6% | Characteristics: Woody, earthy. Mildly spicy. | *Substitutes*: Williamette, Styrian Goldings|
-| **Galaxy** (AUS) | 13 - 15% | Beta: 5.8 - 6% | Cohumulone: 35% | Characteristics: Tropical passionfruit, citrus hints of peach, mango. Similar to Citra but more fruity, less dank. For notes on my Galaxy single hop IPA, click here. | *Substitutes*:  Citra, Amarillo, Centennial|
-| **Galena** (UK) | 11 - 14% | Characteristics: Fruity black currant; citrus. | *Substitutes*: Legacy, Brewer's Gold, Nugget|
-| **Glacier** (US) | 5 - 6% | Characteristics: Earthy/floral character with a sweet citrus. | *Substitutes*: Williamette, Styrian Goldings|
-| **Green Bullet** (NZ) | 10 - 14% | Characteristics: Fruity, resiny; described as having a distinct raisin-like character. | *Substitutes*: Possibly Galena|
-| **Hallertau** (GER) | 3.5 - 5.5% | Beta: 3 - 4% | Cohumulone: 17 - 24% | Characteristics: Versatile, classic hop with mild spicy, flowery, earthy aroma. "Noble" hop common to German lagers. See also: Hallertau Mittelfrüh | *Substitutes*: Hersbruck, Mt. Hood, Liberty, Helga  |
-| **Hallertau Aroma (Wakatu)** (NZ) | 7 - 9% | Beta: 5.8 - 8.5% | Cohumulone: 28 - 35% | Characteristics: Less spicy than Mittelfrüh, with a floral and citrus / lime character. Also known as Wakatu. | *Substitutes*: N/A|
-| **Hallertau Blanc** (GER) | 9 - 12% | Characteristics: Flowery-fruity aroma, passion fruit, grapefruit, gooseberry and pineapple. | *Substitutes*: Sounds like it could be the German response to Galaxy / Nelson Sauvin?|
-| **Hallertau Mittelfrüh** (GER) | 3.5% | Beta: 3.5 - 4.5% | Cohumulone: 20 - 26% | Characteristics: Versatile, classic hop with mild spicy, flowery, earthy aroma. "Noble" hop common to German lagers. Most likely a regional subset of Hallertau hops. | *Substitutes*: Hersbruck, Mt. Hood, Liberty, Helga  |
-| **Helga** (AUS) | 5 - 6.3% | Beta: 4.6% | Characteristics: Noble-ish aroma, flowery, mild. (I like that the few sites I've found with this hop describe it as "good for Ales and lagers." Gee, thanks.) | *Substitutes*: Hallertau Mittelfrueh, Hersbrucker |
-| **Herald** (UK) | 9 - 13% | Characteristics: A sister of Pioneer; strong bitterness with citrus and grapefruit. | *Substitutes*: Pioneer|
-| **Herkules** (GER) | 12 - 17% | Characteristics: Slightly fruity, spicy aroma. | *Substitutes*: Horizon, Magnum, (Hallertau) Taurus|
-| **(Hallertau) Hersbrucker** (GER) | 2 - 5% | Beta: 4 - 6% | Cohumulone: 19 - 25% | Characteristics: Moderate-intensity floral character, spice and fruit. | *Substitutes*: Hallertau, Helga|
-| **Horizon** (US) | 10 - 16% | Characteristics: Citrus and floral, fragrant aroma. Possibly some spice / resin. Clean bittering. | *Substitutes*: Magnum, Amarillo|
-| **Hüll Melon** (GER) | 6.9 - 7.5% | Characteristics: Strawberry and honeydew, melon nuances. | *Substitutes*: N/A|
-| **Kohatu** (NZ) | 6 - 7% | Beta: 5.8 - 3.5% | Cohumulone: 21% | Characteristics: Intense floral characters, grapefruit, pine needles, tropical fruit. | *Substitutes*: N/A|
-| **Legacy** (US) | ~7 - 8% | Characteristics: Floral, blackcurrant, spicy. | *Substitutes*: Cluster, Galena|
-| **Liberty** (US) | 3 - 6% | Characteristics: Mild, slightly spicy, resiny. Sometimes considered a noble hop. | *Substitutes*: Hallertau|
-| **Lublin** (Poland) | A Polish-bred descendant of Czech Saaz.  |
-| **Marynka** (Poland) | 7 - 10% | Characteristics: Earthy, rooty, liquorice. | *Substitutes*: Perle, Chinook|
-| **Magnum** (GER) | 11 - 15% | Characteristics: Very clean bittering with mild, faint aroma. | *Substitutes*: Horizon|
-| **Mandarina Bavaria** (GER) | 7 - 10% | Characteristics: Intense mandarin, citrus notes. | *Substitutes*: N/A|
-| **Meridian** (US) | 6 - 7% | Characteristics: Not much info on this one yet; I've read that Meridian offers citrus, lemon, with some tropical fruit and floral characteristics. | *Substitutes*: Citra, Amarillo, Sorachi Ace.. ?|
-| **Merkur** (GER) | 12 - 15% | Characteristics: Similar to Magnum for bittering, but with an earthy, floral aroma. | *Substitutes*: Magnum, Horizon|
-| **Millennium** (US) | 13 - 16% | Beta: 4.8% | Cohumulone: 30% | Characteristics: Clean bittering, with herbal aroma. | *Substitutes*: Nugget|
-| **Mosaic** (US) | 10 - 12% | Beta: 3.2 - 3.9% | Cohumulone: 24 - 26% | Characteristics: Mango, stone fruit, berry medley, melon. Mild herbal character reported in some instances. Click through for notes on my Mosaic single hop IPA. | *Substitutes*: Possibly a blend of Galaxy and Nelson Sauvin|
-| **Motueka** (NZ) | 6.5 -7.5% | Characteristics: Lemony, tropical fruit, spice. | *Substitutes*: Saaz|
-| **Mount Hood** (US) | 5 - 8% | Characteristics: Mild and clean aroma and flavor. | *Substitutes*: Hallertauer, Tettnanger|
-| **Mount Rainier** (US) | 5 - 8% | Characteristics: Hallertauer with higher AA; aroma of citrus and licorice. | *Substitutes*: Hallertauer, Fuggles|
-| **Nelson Sauvin** (NZ) | 11 - 13% | Beta: 6 - 8% | Cohumulone: 22 - 26% | Characteristics: White wine, grapefruit, tangy berries. Dank and intensely fruity. Click through for notes on my Nelson single hop pale ale. | *Substitutes*: Extremely unique, no subs.|
-| **Newport** (US) | 12 - 15% | Characteristics: Mild aroma; good bittering. | *Substitutes*: Magnum|
-| **Northdown** (UK) | 6 - 10% | Characteristics: Clean bitterness and a distinct woody, minty flavor. | *Substitutes*: Northern Brewer|
-| **Northern Brewer** (UK) | 8 - 10% | Characteristics: Good bitterness and neutral, mild flavor. | *Substitutes*: Northdown, Perle, Aurora|
-| **Nugget** (US) | 10 - 14% | Characteristics: Somewhat heavy, herbal bitterness and aroma. | *Substitutes*: Galena, Columbus|
-| **Opal** (GER) | 8 - 10% | Characteristics: Moderate bitterness, spicy, fruity, floral. | *Substitutes*: Saphir, East Kent Goldings|
-| **Pacific Gem** (NZ) | 13 - 16% | Characteristics: Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. Click through for notes on my Pacific Gem single hop pale ale. | *Substitutes*: Belma|
-| **Pacifica** (NZ) | 5 -6% | Characteristics: Orange marmalade flavor, with some citrus and floral character as well. | *Substitutes*: Possibly a combination of Mittlefruh and Amarillo.|
-| **Pacific Jade** (NZ) | 12 - 14% | Characteristics: Soft bitterness. Bold aroma of citrus and crushed black pepper. | *Substitutes*: Magnum|
-| **Palisade** (US) | 5.5 - 9.5% | Characteristics: Fruity but non-citrusy aroma; earthy undertones. | *Substitutes*: Willamette|
-| **Perle** (GER) | 6 - 8% | Characteristics: Spicy, minty aroma of moderate intensity and balanced bittering. | *Substitutes*: Northern Brewer, Northdown|
-| **Phoenix** (UK) | 7 - 11% | Characteristics: Spicy "English Ale" aroma with clean bittering. | *Substitutes*: Challenger, Northern Brewer|
-| **Pilgrim** (UK) | 9 - 13% | Characteristics: Spicy earthy character. | *Substitutes*: Target|
-| **Pioneer** (UK) | 8 - 10% | Characteristics: Citrus (less aggressive than American hops; more "English") | *Substitutes*: EKG|
-| **Polaris** (GER) | 19 - 23% | Characteristics: Minty. | *Substitutes*: N/A|
-| **Premiant** (Czech Republic) | 7 - 10% | Characteristics: Mild, pleasant aroma. | *Substitutes*: Styrian Goldings, perhaps Saaz and Aurora|
-| **Pride of Ringwood** (AUS) | 9 - 10.5% | Beta: 5.5 - 6% | Cohumulone: 32% | Characteristics: Unique, intense aroma describe as "coarse," citrusy, herbal. Ubiquitous Australian hop. | *Substitutes*: Cluster, Galena|
-| **Progress** (UK) | 5 - 7% | Characteristics: Mildly spicy or woody, hint of juniper, similar to Fuggle but slightly sweeter. | *Substitutes*: Fuggle|
-| **Rakau** (NZ) | 9 - 11% | Beta: 4.6% | Cohumulone: 25% | Characteristics: Grassy and spicy upfront, with some peach and tangerine in the finish. Click through for notes on my Rakau single hop pale ale. | *Substitutes*: N/A|
-| **Riwaka** (NZ) | 5 - 7% | Characteristics: Strong grapefruit citrus character. | *Substitutes*: Cascade|
-| **Saaz** (Czech Republic) | 3 - 5% | Characteristics: Soft aroma and bitterness, maybe the quintessential "spicy" hop. Noble hop traditionally used for pilsners. | *Substitutes*: Sterling, Spalt|
-| **San Juan Ruby Red** (US) | 7% | Characteristics: Wild growing hop discovered in CO. Fruity, slightly sweet. | *Substitutes*: n/a|
-| **Santiam** (US) | 5 - 7% | Characteristics: Similar to Tettnanger. Herbal, floral. | *Substitutes*: Tettnanger|
-| **Saphir** (GER) | 3 - 5.5% | Characteristics: Sweet, clean, spicy; citrusy with an almost tangerine aroma. | *Substitutes*: Hallertau|
-| **Satus** (US) | 12.5 - 14.0% | Characteristics: Similar to Galena. | *Substitutes*: Galena|
-| **Select** (GER) | 4 - 6% | Characteristics: Bred to be similar to Spalt, Tettnang, Saaz. | *Substitutes*: Spalt, Tettnang, Saaz|
-| **Serebrianka** (Russia) | 3.5% | Characteristics: Light perfume aroma.|
-| **Simcoe** (US) | 11 - 14% | Beta: 4 - 5% | Cohumulone: 15 - 20% | Characteristics: Pine and citrus, sweet berries and perfume. Unique, complex flavor with very smooth bittering. Click for notes on my Simcoe single hop pale ale. | *Substitutes*: A combination of Columbus and Centennial might come close.|
-| **Smaragd** (GER) | 4 - 6% | Characteristics: A new European response to Amarillo. Fruity nose, flowery; more prominent aroma than most European varieties; balanced subdued fruitiness. | *Substitutes*: Try a combo of German and American hops|
-| **Sonnet Golding** (US) | 6.6% | Characteristics: Similar characteristics to Golding hops.|
-| **Sorachi Ace** (Japan) | 12 - 16% | Characteristics: Lemony, Lemongrass, lemon-cream flavor. | *Substitutes*: Southern Cross|
-| **Southern Cross** (NZ) | 11 - 14% | Characteristics: Lemon, lime, pine. | *Substitutes*: Sorachi Ace|
-| **Sovereign** (UK) | 4 - 7% | Characteristics: Earthy, nutty, pine. | *Substitutes*: Fuggle|
-| **Spalt** (GER) | 3.5 - 5% | Characteristics: Spicy, Noble hop aroma. | *Substitutes*: Saaz, Tettnang|
-| **Stella** (AUS) | 14 - 16% | Beta: 4 - 4.5% | Cohumulone: 36% | Characteristics: Spicy, earthy, hints of star anise. Floral. | *Substitutes*: Mix of English and Noble varieties|
-| **Sterling** (US) | 5 - 9% | Characteristics: Floral, spicy, slight citrus aroma. | *Substitutes*: Saaz|
-| **Sticklebract** (NZ) | 11 - 14% | Characteristics: Piney, citrus. Harsher bittering.|
-| **Strisselspalt** (France) | 3 - 5% | Characteristics: Mild Noble-like flavor, spicy, herbal. | *Substitutes*: Hersbrucker, Hallertau |
-| **Styrian Goldings** (Slovenia) | 4.5 - 6% | Characteristics: Mild, spicy aroma. | *Substitutes*: Aurora, Fuggle, Williamette|
-| **Summer** (AUS) | 4 - 7% | Beta: 4.8 - 6.1% | Cohumulone: 23 - 25% | Characteristics: Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. Click through for notes on my Summer hopped pale ale. | *Substitutes*: Possibly Rakau, Amarillo|
-| **Summit** (US) | 17 - 19% | Characteristics: Smooth bittering with orange, tangerine, citrus character. | *Substitutes*: Apollo|
-| **Super Pride** (AUS) | 9 - 10.5% | Beta: 5.5 - 6% | Cohumulone: 32% | Characteristics: Unique, intense aroma describe as "coarse," citrusy, herbal. Ubiquitous Australian hop. | *Substitutes*: Cluster, Galena |
-| **Sun** (US) | 12 - 16%|
-| **Super Alpha** (NZ) | 10 - 12% | Characteristics: Piney, grassy, lemongrass. | *Substitutes*: N/A|
-| **Tahoma** (US) | 7.2 - 8.2% | Beta: 8.5 - 9.5% | Cohumulone: 15 - 17% | Characteristics: Citrus and lemon notes; cedar, pine, floral, subtle melon. | *Substitutes*: N/A|
-| **Target** (UK) | 8 - 13% | Characteristics: Herbal, earthy, grassy. | *Substitutes*: Admiral|
-| **(Hallertau) Taurus** (GER) | 12 - 17% | Characteristics: Noble, aromatic, zesty. | *Substitutes*: Horizon, Herkules, Magnum|
-| **Tettnang** (GER) | 3.5 - 5% | Characteristics: Herbal, slightly spicy, woody. | *Substitutes*: Saaz, Spalt, Ultra|
-| **Topaz** (AUS) | 15.5 - 18% | Beta: 6 - 7% | Cohumulone: 47 - 50% | Characteristics: Lychee fruit, tangerine, spice and resin. Touch of citrus. | *Substitutes*: Possibly Rakau, Stella|
-| **Tradition** (GER) | 5 - 7% | Characteristics: Sweetly flowery, earthy. Bred to be stronger version of Hallertau. | *Substitutes*: Hallertau, Liberty|
-| **Triplepearl** (US) | 10.2 - 11.2% | Beta: 3.3 - 4.2% | Cohumulone: 21 - 25% | Characteristics: Notes of melon, orange citrus, resin, spice and pepper. | *Substitutes*: Pearl|
-| **Ultra** (US) | 4.5 - 5% | Characteristics: Spicy, floral, mild. Noble hop replacement. | *Substitutes*: Saaz, Spalt, Tettnang|
-| **Vanguard** (US) | 5 - 6% | Characteristics: Slightly flowery, herbal, and mild. Similar to Hallertau. | *Substitutes*: Hallertau, Spalt, Tettnang|
-| **Waimea** (NZ) | 15 - 16% | Characteristics: Pine needles, citrus fruit, grapefruit, tangerine. | *Substitutes*: N/A|
-| **Wakatu** (NZ) | 7 - 9% | Beta: 5.8% - 8.5% | Cohumulone: 28 - 35% | Characteristics: Mildly spicy, with a floral and citrus / lime character. Also known as Hallertau Aroma. | *Substitutes*: N/A|
-| **Warrior** (US) | 15 - 17% | Characteristics: Clean, mellow flavor; mild citrus lemon character. | *Substitutes*: Bravo, possibly Apollo or Magnum|
-| **Willamette** (US) | 4 - 6% | Beta: 3.5 - 4.5% | Cohumulone: 30 - 35% | Characteristics: Herbal, woody, earthy. | *Substitutes*: Fuggle, Tettnang|
-| **Yakima Gold** (US) | 8.8 - 10.5% | Beta: 4.3 - 5.0% | Cohumulone: 21 - 23% | Characteristics: Cross between early American Cluster and a native Slovenian male with mild and pleasant character. | *Substitutes*: Pearl|
-| **Zeus** | See: Columbus/Tomahawk.|
-| **Zythos** (US) | 10 - 12% | Characteristics: Strongly aromatic, with tangerine, lemon, grapefruit, and pine notes. | *Substitutes*: Cascade, Ahtanum, Sorachi Ace |
+| Hop | AA Range | Beta | Cohumulone | Characteristics | *Substitutes* |
+|---|---|---|---|---|---|
+| **Admiral** (UK) | 13.5 - 16% | N/A | N/A | Bred as a replacement for Target with a less harsh bitterness. Weak aroma with mild citrus character. | Target, Challenger|
+| **Ahtanum** (US) | 5.7 - 6.3% | N/A | N/A | Citrus and floral character, with grapefruit qualities said to be stronger than in Cascade. Ahtanum may also feature resiny or earth notes. | Cascade, Amarillo|
+| **Amarillo** (US) | 8 - 11% | 6 - 7% | 21 - 24% | Floral, grapefruit, citrus, peach. | Cascade, Centennial, Citra|
+| **Apollo** (US) | 18 - 22% | 5.5 - 8% | 24 - 28% | Orange, with some resin. Dank. | Summit|
+| **Aramis** (US) | 8% | N/A | N/A | Herbal, floral, earthy, lemon. | N/A|
+| **Aurora** (Slovenia) | 7 - 9% | N/A | N/A | General "hoppy" aroma, fruity. | Styrian Golding, Premiant, Northern Brewer|
+| **Azacca** (US) | 14 - 16% | 5.4% | N/A | Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple.
+N/A|
+| **Belma** (US) | 12% | N/A | N/A | Clean fruity hoppiness; strawberry, melon, mild citrus. Click through for my experience with Belma in a single hop IPA. | Pacific Gem|
+| **Bramling Cross** (UK) | 7 - 10% | N/A | N/A | Strong and spicy English hop. Fruity blackcurrant and lemon citrus. | East Kent Goldings, Progress, Brewer's Gold|
+| **Bravo** (US) | 14 - 17% | N/A | N/A | Smooth, mild flavor; fruity, floral. Clean bittering. | Warrior|
+| **Brewer's Gold** (UK) | 5 - 8% | N/A | N/A | Early bittering hop. Resiny, spicy. Black currant aroma. | Bullion, Galena, Bramling Cross|
+| **Bullion** (US) | 7 - 9% | N/A | N/A | Early, traditional bittering hop for stouts. Resiny, earthy; pungent black currant or raspberry aroma. | Brewer's Gold, Galena|
+| **Calypso** (US) | 12-14% | N/A | N/A | Lemony aroma, tart apple, earthy tea. | N/A|
+| **Cascade** (US) | 7.7 - 9.1% | 6.4 - 7.1% | 33 - 40% | Ubiquitous American hop; citrusy grapefruit character. | Centennial|
+| **Cashmere** (US) | 4.5 - 7.0% | 4.8 - 7% | 22 - 24% | Mild herbal aroma with strong melon, lemon, lime and slightly spicy notes. Daughter of Cascade. | N/A|
+| **Centennial** (US) | 9 - 12% | 3.5 - 4.5% | 28 - 30% | Balanced fruity citrus / stone-fruit character. Smooth bitterness. | Cascade, Citra|
+| **Challenger** (UK) | 6 - 9% | N/A | N/A | Clean bittering hop with strong, spicy aroma. | Perle, Target, Phoenix, EKG|
+| **Chinook** (US) | 11 - 14% | 3 - 4% | 29 - 34% | Spicy, piney flavor with some grapefruit. | Nugget, Columbus, Northern Brewer|
+| **Citra** (US) | 10 - 12% | 3.5 - 4.5% | 22 - 24% | Potent aroma of intense mango, tropical fruit and citrus. Flavor is a bit smoother, less specific but still intense. Extremely effective as a dry hop and late addition hop. I've heard complaints about Citra as a bittering hop. | Galaxy, Centennial, Nelson Sauvin|
+| **Cluster** (US) | 5.5 - 8.5% | N/A | N/A | Pungent bittering hop; spicy, floral aroma. One of the original American hops. | Galena, Northern Brewer|
+| **Columbus / Tomahawk / Zeus (CTZ)** (US) | 14 - 16% | 4.5 - 5.5% | 30 - 35% | Dank, earthy, resin. | Chinook, Nugget|
+| **Comet** (US) | 9 - 11% | N/A | N/A | Intense wild American grapefruit / citrus character; extremely dank. | Summit|
+| **Crystal** (US) | 2 - 5% | N/A | N/A | American grown Hallertau hybrid. Flowery, spicy aroma. Sister hop to Mount Hood and Liberty. | Mt. Hood, Hersbrucker, Liberty, Hallertau|
+| **Dana** (Slovenia) | 11 - 16% | 4.8 - 6% | 28 - 31% | A psuedo-Noble hop with a rustic, musty spiciness and mild bitterness. | N/A|
+| **Delta** (US) | 5.5 - 7% | 5.5 - 7% | 22 - 24% | Slightly spicy with a hint of citrus. (Delta is a cross between Fuggles and Cascade). Described as subtle and mild. | N/A|
+| **East Kent Goldings** (UK) | 4.5 - 6.5% | 1.9 - 2.8% | 28 - 32% | A popular, traditional English hop with gentle fragrant aroma. Smooth, spicy and floral. Has defined English ales for centuries. | Fuggle, First Gold, Williamette |
+| **El Dorado** (US) | 14 - 16% | N/A | N/A | An intense, candy-like aroma of cherry, pear and fruit. Can taste like cherry Jolly Ranchers in extra-hoppy beers. | Sounds pretty unique, sorry folks|
+| **Equinox** (US) | 14.4 - 15.6% | 4.6 - 5.1% | 31.7 - 38% | Lemon, lime, papaya, apple, green pepper, floral, herbal. | N/A|
+| **Falconers Flight** (US) | 10.5% | N/A | N/A | Tropical, citrus, floral, lemon and grapefruit. | Cascade, Ahtanum, Sorachi Ace|
+| **Falconers Seven Seas** (US) | 9 - 10% | N/A | N/A | Fruity, citrus, spicy, earthy. A cross-breed of 7 "C" variety hops. (Get it?) | Simcoe |
+| **First Gold** (UK) | 6 - 9% | N/A | N/A | A child hybrid of Goldings, similar in aroma; spicy. Woody, minty flavor and aroma. | Eat Kent Goldings, Fuggle, Crystal|
+| **Fuggle** (UK) | 4 - 6% | N/A | N/A | Woody, earthy. Mildly spicy. | Williamette, Styrian Goldings|
+| **Galaxy** (AUS) | 13 - 15% | 5.8 - 6% | 35% | Tropical passionfruit, citrus hints of peach, mango. Similar to Citra but more fruity, less dank. For notes on my Galaxy single hop IPA, click here. |  Citra, Amarillo, Centennial|
+| **Galena** (UK) | 11 - 14% | N/A | N/A | Fruity black currant; citrus. | Legacy, Brewer's Gold, Nugget|
+| **Glacier** (US) | 5 - 6% | N/A | N/A | Earthy/floral character with a sweet citrus. | Williamette, Styrian Goldings|
+| **Green Bullet** (NZ) | 10 - 14% | N/A | N/A | Fruity, resiny; described as having a distinct raisin-like character. | Possibly Galena|
+| **Hallertau** (GER) | 3.5 - 5.5% | 3 - 4% | 17 - 24% | Versatile, classic hop with mild spicy, flowery, earthy aroma. "Noble" hop common to German lagers. See also: Hallertau Mittelfrüh | Hersbruck, Mt. Hood, Liberty, Helga  |
+| **Hallertau Aroma (Wakatu)** (NZ) | 7 - 9% | 5.8 - 8.5% | 28 - 35% | Less spicy than Mittelfrüh, with a floral and citrus / lime character. Also known as Wakatu. | N/A|
+| **Hallertau Blanc** (GER) | 9 - 12% | N/A | N/A | Flowery-fruity aroma, passion fruit, grapefruit, gooseberry and pineapple. | Sounds like it could be the German response to Galaxy / Nelson Sauvin?|
+| **Hallertau Mittelfrüh** (GER) | 3.5% | 3.5 - 4.5% | 20 - 26% | Versatile, classic hop with mild spicy, flowery, earthy aroma. "Noble" hop common to German lagers. Most likely a regional subset of Hallertau hops. | Hersbruck, Mt. Hood, Liberty, Helga  |
+| **Helga** (AUS) | 5 - 6.3% | 4.6% | N/A | Noble-ish aroma, flowery, mild. (I like that the few sites I've found with this hop describe it as "good for Ales and lagers." Gee, thanks.) | Hallertau Mittelfrueh, Hersbrucker |
+| **Herald** (UK) | 9 - 13% | N/A | N/A | A sister of Pioneer; strong bitterness with citrus and grapefruit. | Pioneer|
+| **Herkules** (GER) | 12 - 17% | N/A | N/A | Slightly fruity, spicy aroma. | Horizon, Magnum, (Hallertau) Taurus|
+| **(Hallertau) Hersbrucker** (GER) | 2 - 5% | 4 - 6% | 19 - 25% | Moderate-intensity floral character, spice and fruit. | Hallertau, Helga|
+| **Horizon** (US) | 10 - 16% | N/A | N/A | Citrus and floral, fragrant aroma. Possibly some spice / resin. Clean bittering. | Magnum, Amarillo|
+| **Hüll Melon** (GER) | 6.9 - 7.5% | N/A | N/A | Strawberry and honeydew, melon nuances. | N/A|
+| **Kohatu** (NZ) | 6 - 7% | 5.8 - 3.5% | 21% | Intense floral characters, grapefruit, pine needles, tropical fruit. | N/A|
+| **Legacy** (US) | ~7 - 8% | N/A | N/A | Floral, blackcurrant, spicy. | Cluster, Galena|
+| **Liberty** (US) | 3 - 6% | N/A | N/A | Mild, slightly spicy, resiny. Sometimes considered a noble hop. | Hallertau|
+| **Lublin** (Poland) | | N/A | N/A | A Polish-bred descendant of Czech Saaz. | N/A|
+| **Marynka** (Poland) | 7 - 10% | N/A | N/A | Earthy, rooty, liquorice. | Perle, Chinook|
+| **Magnum** (GER) | 11 - 15% | N/A | N/A | Very clean bittering with mild, faint aroma. | Horizon|
+| **Mandarina Bavaria** (GER) | 7 - 10% | N/A | N/A | Intense mandarin, citrus notes. | N/A|
+| **Meridian** (US) | 6 - 7% | N/A | N/A | Not much info on this one yet; I've read that Meridian offers citrus, lemon, with some tropical fruit and floral characteristics. | Citra, Amarillo, Sorachi Ace.. ?|
+| **Merkur** (GER) | 12 - 15% | N/A | N/A | Similar to Magnum for bittering, but with an earthy, floral aroma. | Magnum, Horizon|
+| **Millennium** (US) | 13 - 16% | 4.8% | 30% | Clean bittering, with herbal aroma. | Nugget|
+| **Mosaic** (US) | 10 - 12% | 3.2 - 3.9% | 24 - 26% | Mango, stone fruit, berry medley, melon. Mild herbal character reported in some instances. Click through for notes on my Mosaic single hop IPA. | Possibly a blend of Galaxy and Nelson Sauvin|
+| **Motueka** (NZ) | 6.5 -7.5% | N/A | N/A | Lemony, tropical fruit, spice. | Saaz|
+| **Mount Hood** (US) | 5 - 8% | N/A | N/A | Mild and clean aroma and flavor. | Hallertauer, Tettnanger|
+| **Mount Rainier** (US) | 5 - 8% | N/A | N/A | Hallertauer with higher AA; aroma of citrus and licorice. | Hallertauer, Fuggles|
+| **Nelson Sauvin** (NZ) | 11 - 13% | 6 - 8% | 22 - 26% | White wine, grapefruit, tangy berries. Dank and intensely fruity. Click through for notes on my Nelson single hop pale ale. | Extremely unique, no subs.|
+| **Newport** (US) | 12 - 15% | N/A | N/A | Mild aroma; good bittering. | Magnum|
+| **Northdown** (UK) | 6 - 10% | N/A | N/A | Clean bitterness and a distinct woody, minty flavor. | Northern Brewer|
+| **Northern Brewer** (UK) | 8 - 10% | N/A | N/A | Good bitterness and neutral, mild flavor. | Northdown, Perle, Aurora|
+| **Nugget** (US) | 10 - 14% | N/A | N/A | Somewhat heavy, herbal bitterness and aroma. | Galena, Columbus|
+| **Opal** (GER) | 8 - 10% | N/A | N/A | Moderate bitterness, spicy, fruity, floral. | Saphir, East Kent Goldings|
+| **Pacific Gem** (NZ) | 13 - 16% | N/A | N/A | Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. Click through for notes on my Pacific Gem single hop pale ale. | Belma|
+| **Pacifica** (NZ) | 5 -6% | N/A | N/A | Orange marmalade flavor, with some citrus and floral character as well. | Possibly a combination of Mittlefruh and Amarillo.|
+| **Pacific Jade** (NZ) | 12 - 14% | N/A | N/A | Soft bitterness. Bold aroma of citrus and crushed black pepper. | Magnum|
+| **Palisade** (US) | 5.5 - 9.5% | N/A | N/A | Fruity but non-citrusy aroma; earthy undertones. | Willamette|
+| **Perle** (GER) | 6 - 8% | N/A | N/A | Spicy, minty aroma of moderate intensity and balanced bittering. | Northern Brewer, Northdown|
+| **Phoenix** (UK) | 7 - 11% | N/A | N/A | Spicy "English Ale" aroma with clean bittering. | Challenger, Northern Brewer|
+| **Pilgrim** (UK) | 9 - 13% | N/A | N/A | Spicy earthy character. | Target|
+| **Pioneer** (UK) | 8 - 10% | N/A | N/A | Citrus (less aggressive than American hops; more "English") | EKG|
+| **Polaris** (GER) | 19 - 23% | N/A | N/A | Minty. | N/A|
+| **Premiant** (Czech Republic) | 7 - 10% | N/A | N/A | Mild, pleasant aroma. | Styrian Goldings, perhaps Saaz and Aurora|
+| **Pride of Ringwood** (AUS) | 9 - 10.5% | 5.5 - 6% | 32% | Unique, intense aroma describe as "coarse," citrusy, herbal. Ubiquitous Australian hop. | Cluster, Galena|
+| **Progress** (UK) | 5 - 7% | N/A | N/A | Mildly spicy or woody, hint of juniper, similar to Fuggle but slightly sweeter. | Fuggle|
+| **Rakau** (NZ) | 9 - 11% | 4.6% | 25% | Grassy and spicy upfront, with some peach and tangerine in the finish. Click through for notes on my Rakau single hop pale ale. | N/A|
+| **Riwaka** (NZ) | 5 - 7% | N/A | N/A | Strong grapefruit citrus character. | Cascade|
+| **Saaz** (Czech Republic) | 3 - 5% | N/A | N/A | Soft aroma and bitterness, maybe the quintessential "spicy" hop. Noble hop traditionally used for pilsners. | Sterling, Spalt|
+| **San Juan Ruby Red** (US) | 7% | N/A | N/A | Wild growing hop discovered in CO. Fruity, slightly sweet. | n/a|
+| **Santiam** (US) | 5 - 7% | N/A | N/A | Similar to Tettnanger. Herbal, floral. | Tettnanger|
+| **Saphir** (GER) | 3 - 5.5% | N/A | N/A | Sweet, clean, spicy; citrusy with an almost tangerine aroma. | Hallertau|
+| **Satus** (US) | 12.5 - 14.0% | N/A | N/A | Similar to Galena. | Galena|
+| **Select** (GER) | 4 - 6% | N/A | N/A | Bred to be similar to Spalt, Tettnang, Saaz. | Spalt, Tettnang, Saaz|
+| **Serebrianka** (Russia) | 3.5% | N/A | N/A | Light perfume aroma. | N/A|
+| **Simcoe** (US) | 11 - 14% | 4 - 5% | 15 - 20% | Pine and citrus, sweet berries and perfume. Unique, complex flavor with very smooth bittering. Click for notes on my Simcoe single hop pale ale. | A combination of Columbus and Centennial might come close.|
+| **Smaragd** (GER) | 4 - 6% | N/A | N/A | A new European response to Amarillo. Fruity nose, flowery; more prominent aroma than most European varieties; balanced subdued fruitiness. | Try a combo of German and American hops|
+| **Sonnet Golding** (US) | 6.6% | N/A | N/A | Similar characteristics to Golding hops. | N/A|
+| **Sorachi Ace** (Japan) | 12 - 16% | N/A | N/A | Lemony, Lemongrass, lemon-cream flavor. | Southern Cross|
+| **Southern Cross** (NZ) | 11 - 14% | N/A | N/A | Lemon, lime, pine. | Sorachi Ace|
+| **Sovereign** (UK) | 4 - 7% | N/A | N/A | Earthy, nutty, pine. | Fuggle|
+| **Spalt** (GER) | 3.5 - 5% | N/A | N/A | Spicy, Noble hop aroma. | Saaz, Tettnang|
+| **Stella** (AUS) | 14 - 16% | 4 - 4.5% | 36% | Spicy, earthy, hints of star anise. Floral. | Mix of English and Noble varieties|
+| **Sterling** (US) | 5 - 9% | N/A | N/A | Floral, spicy, slight citrus aroma. | Saaz|
+| **Sticklebract** (NZ) | 11 - 14% | N/A | N/A | Piney, citrus. Harsher bittering. | N/A|
+| **Strisselspalt** (France) | 3 - 5% | N/A | N/A | Mild Noble-like flavor, spicy, herbal. | Hersbrucker, Hallertau |
+| **Styrian Goldings** (Slovenia) | 4.5 - 6% | N/A | N/A | Mild, spicy aroma. | Aurora, Fuggle, Williamette|
+| **Summer** (AUS) | 4 - 7% | 4.8 - 6.1% | 23 - 25% | Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. Click through for notes on my Summer hopped pale ale. | Possibly Rakau, Amarillo|
+| **Summit** (US) | 17 - 19% | N/A | N/A | Smooth bittering with orange, tangerine, citrus character. | Apollo|
+| **Super Pride** (AUS) | 9 - 10.5% | 5.5 - 6% | 32% | Unique, intense aroma describe as "coarse," citrusy, herbal. Ubiquitous Australian hop. | Cluster, Galena |
+| **Sun** (US) | 12 - 16%
+N/A | N/A | | N/A|
+| **Super Alpha** (NZ) | 10 - 12% | N/A | N/A | Piney, grassy, lemongrass. | N/A|
+| **Tahoma** (US) | 7.2 - 8.2% | 8.5 - 9.5% | 15 - 17% | Citrus and lemon notes; cedar, pine, floral, subtle melon. | N/A|
+| **Target** (UK) | 8 - 13% | N/A | N/A | Herbal, earthy, grassy. | Admiral|
+| **(Hallertau) Taurus** (GER) | 12 - 17% | N/A | N/A | Noble, aromatic, zesty. | Horizon, Herkules, Magnum|
+| **Tettnang** (GER) | 3.5 - 5% | N/A | N/A | Herbal, slightly spicy, woody. | Saaz, Spalt, Ultra|
+| **Topaz** (AUS) | 15.5 - 18% | 6 - 7% | 47 - 50% | Lychee fruit, tangerine, spice and resin. Touch of citrus. | Possibly Rakau, Stella|
+| **Tradition** (GER) | 5 - 7% | N/A | N/A | Sweetly flowery, earthy. Bred to be stronger version of Hallertau. | Hallertau, Liberty|
+| **Triplepearl** (US) | 10.2 - 11.2% | 3.3 - 4.2% | 21 - 25% | Notes of melon, orange citrus, resin, spice and pepper. | Pearl|
+| **Ultra** (US) | 4.5 - 5% | N/A | N/A | Spicy, floral, mild. Noble hop replacement. | Saaz, Spalt, Tettnang|
+| **Vanguard** (US) | 5 - 6% | N/A | N/A | Slightly flowery, herbal, and mild. Similar to Hallertau. | Hallertau, Spalt, Tettnang|
+| **Waimea** (NZ) | 15 - 16% | N/A | N/A | Pine needles, citrus fruit, grapefruit, tangerine. | N/A|
+| **Wakatu** (NZ) | 7 - 9% | 5.8% - 8.5% | 28 - 35% | Mildly spicy, with a floral and citrus / lime character. Also known as Hallertau Aroma. | N/A|
+| **Warrior** (US) | 15 - 17% | N/A | N/A | Clean, mellow flavor; mild citrus lemon character. | Bravo, possibly Apollo or Magnum|
+| **Willamette** (US) | 4 - 6% | 3.5 - 4.5% | 30 - 35% | Herbal, woody, earthy. | Fuggle, Tettnang|
+| **Yakima Gold** (US) | 8.8 - 10.5% | 4.3 - 5.0% | 21 - 23% | Cross between early American Cluster and a native Slovenian male with mild and pleasant character. | Pearl|
+| **Zythos** (US) | 10 - 12% | N/A | N/A | Strongly aromatic, with tangerine, lemon, grapefruit, and pine notes. | Cascade, Ahtanum, Sorachi Ace |
