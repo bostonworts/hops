@@ -7,7 +7,7 @@
 | **Aramis** (US) | 8% | N/A | N/A | Herbal, floral, earthy, lemon. | N/A|
 | **Aurora** (Slovenia) | 7 - 9% | N/A | N/A | General "hoppy" aroma, fruity. | Styrian Golding, Premiant, Northern Brewer|
 | **Azacca** (US) | 14 - 16% | 5.4% | N/A | Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pineapple. | N/A|
-| **Belma** (US) | 12% | N/A | N/A | Clean fruity hoppiness; strawberry, melon, mild citrus. Click through for my experience with Belma in a single hop IPA. | Pacific Gem|
+| **Belma** (US) | 12% | N/A | N/A | Clean fruity hoppiness; strawberry, melon, mild citrus. [Click](http://www.bear-flavored.com/2012/12/recipe-and-tasting-notes-belma-single.html) through for my experience with Belma in a single hop IPA. | Pacific Gem|
 | **Bramling Cross** (UK) | 7 - 10% | N/A | N/A | Strong and spicy English hop. Fruity blackcurrant and lemon citrus. | East Kent Goldings, Progress, Brewer's Gold|
 | **Bravo** (US) | 14 - 17% | N/A | N/A | Smooth, mild flavor; fruity, floral. Clean bittering. | Warrior|
 | **Brewer's Gold** (UK) | 5 - 8% | N/A | N/A | Early bittering hop. Resiny, spicy. Black currant aroma. | Bullion, Galena, Bramling Cross|
@@ -32,7 +32,7 @@
 | **Falconers Seven Seas** (US) | 9 - 10% | N/A | N/A | Fruity, citrus, spicy, earthy. A cross-breed of 7 "C" variety hops. (Get it?) | Simcoe |
 | **First Gold** (UK) | 6 - 9% | N/A | N/A | A child hybrid of Goldings, similar in aroma; spicy. Woody, minty flavor and aroma. | Eat Kent Goldings, Fuggle, Crystal|
 | **Fuggle** (UK) | 4 - 6% | N/A | N/A | Woody, earthy. Mildly spicy. | Williamette, Styrian Goldings|
-| **Galaxy** (AUS) | 13 - 15% | 5.8 - 6% | 35% | Tropical passionfruit, citrus hints of peach, mango. Similar to Citra but more fruity, less dank. For notes on my Galaxy single hop IPA, click here. |  Citra, Amarillo, Centennial|
+| **Galaxy** (AUS) | 13 - 15% | 5.8 - 6% | 35% | Tropical passionfruit, citrus hints of peach, mango. Similar to Citra but more fruity, less dank. For notes on my Galaxy single hop IPA, click [here](http://www.bear-flavored.com/2012/03/bear-flavored-galaxy-single-hop-ipa.html). |  Citra, Amarillo, Centennial|
 | **Galena** (UK) | 11 - 14% | N/A | N/A | Fruity black currant; citrus. | Legacy, Brewer's Gold, Nugget|
 | **Glacier** (US) | 5 - 6% | N/A | N/A | Earthy/floral character with a sweet citrus. | Williamette, Styrian Goldings|
 | **Green Bullet** (NZ) | 10 - 14% | N/A | N/A | Fruity, resiny; described as having a distinct raisin-like character. | Possibly Galena|
@@ -56,17 +56,17 @@
 | **Meridian** (US) | 6 - 7% | N/A | N/A | Not much info on this one yet; I've read that Meridian offers citrus, lemon, with some tropical fruit and floral characteristics. | Citra, Amarillo, Sorachi Ace.. ?|
 | **Merkur** (GER) | 12 - 15% | N/A | N/A | Similar to Magnum for bittering, but with an earthy, floral aroma. | Magnum, Horizon|
 | **Millennium** (US) | 13 - 16% | 4.8% | 30% | Clean bittering, with herbal aroma. | Nugget|
-| **Mosaic** (US) | 10 - 12% | 3.2 - 3.9% | 24 - 26% | Mango, stone fruit, berry medley, melon. Mild herbal character reported in some instances. Click through for notes on my Mosaic single hop IPA. | Possibly a blend of Galaxy and Nelson Sauvin|
+| **Mosaic** (US) | 10 - 12% | 3.2 - 3.9% | 24 - 26% | Mango, stone fruit, berry medley, melon. Mild herbal character reported in some instances. [Click](http://www.bear-flavored.com/2013/07/mosaic-single-hop-ipa-recipe-and.html) through for notes on my Mosaic single hop IPA. | Possibly a blend of Galaxy and Nelson Sauvin|
 | **Motueka** (NZ) | 6.5 -7.5% | N/A | N/A | Lemony, tropical fruit, spice. | Saaz|
 | **Mount Hood** (US) | 5 - 8% | N/A | N/A | Mild and clean aroma and flavor. | Hallertauer, Tettnanger|
 | **Mount Rainier** (US) | 5 - 8% | N/A | N/A | Hallertauer with higher AA; aroma of citrus and licorice. | Hallertauer, Fuggles|
-| **Nelson Sauvin** (NZ) | 11 - 13% | 6 - 8% | 22 - 26% | White wine, grapefruit, tangy berries. Dank and intensely fruity. Click through for notes on my Nelson single hop pale ale. | Extremely unique, no subs.|
+| **Nelson Sauvin** (NZ) | 11 - 13% | 6 - 8% | 22 - 26% | White wine, grapefruit, tangy berries. Dank and intensely fruity. [Click](http://www.bear-flavored.com/2012/07/brewery-bear-flavored-style-pale-ale.html) through for notes on my Nelson single hop pale ale. | Extremely unique, no subs.|
 | **Newport** (US) | 12 - 15% | N/A | N/A | Mild aroma; good bittering. | Magnum|
 | **Northdown** (UK) | 6 - 10% | N/A | N/A | Clean bitterness and a distinct woody, minty flavor. | Northern Brewer|
 | **Northern Brewer** (UK) | 8 - 10% | N/A | N/A | Good bitterness and neutral, mild flavor. | Northdown, Perle, Aurora|
 | **Nugget** (US) | 10 - 14% | N/A | N/A | Somewhat heavy, herbal bitterness and aroma. | Galena, Columbus|
 | **Opal** (GER) | 8 - 10% | N/A | N/A | Moderate bitterness, spicy, fruity, floral. | Saphir, East Kent Goldings|
-| **Pacific Gem** (NZ) | 13 - 16% | N/A | N/A | Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. Click through for notes on my Pacific Gem single hop pale ale. | Belma|
+| **Pacific Gem** (NZ) | 13 - 16% | N/A | N/A | Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. [Click](http://www.bear-flavored.com/2013/08/pacific-gem-single-hop-pale-ale-recipe.html) through for notes on my Pacific Gem single hop pale ale. | Belma|
 | **Pacifica** (NZ) | 5 -6% | N/A | N/A | Orange marmalade flavor, with some citrus and floral character as well. | Possibly a combination of Mittlefruh and Amarillo.|
 | **Pacific Jade** (NZ) | 12 - 14% | N/A | N/A | Soft bitterness. Bold aroma of citrus and crushed black pepper. | Magnum|
 | **Palisade** (US) | 5.5 - 9.5% | N/A | N/A | Fruity but non-citrusy aroma; earthy undertones. | Willamette|
@@ -87,7 +87,7 @@
 | **Satus** (US) | 12.5 - 14.0% | N/A | N/A | Similar to Galena. | Galena|
 | **Select** (GER) | 4 - 6% | N/A | N/A | Bred to be similar to Spalt, Tettnang, Saaz. | Spalt, Tettnang, Saaz|
 | **Serebrianka** (Russia) | 3.5% | N/A | N/A | Light perfume aroma. | N/A|
-| **Simcoe** (US) | 11 - 14% | 4 - 5% | 15 - 20% | Pine and citrus, sweet berries and perfume. Unique, complex flavor with very smooth bittering. Click for notes on my Simcoe single hop pale ale. | A combination of Columbus and Centennial might come close.|
+| **Simcoe** (US) | 11 - 14% | 4 - 5% | 15 - 20% | Pine and citrus, sweet berries and perfume. Unique, complex flavor with very smooth bittering. [Click](http://www.bear-flavored.com/2013/05/recipe-and-tasting-notes-simcoe-single.html) for notes on my Simcoe single hop pale ale. | A combination of Columbus and Centennial might come close.|
 | **Smaragd** (GER) | 4 - 6% | N/A | N/A | A new European response to Amarillo. Fruity nose, flowery; more prominent aroma than most European varieties; balanced subdued fruitiness. | Try a combo of German and American hops|
 | **Sonnet Golding** (US) | 6.6% | N/A | N/A | Similar characteristics to Golding hops. | N/A|
 | **Sorachi Ace** (Japan) | 12 - 16% | N/A | N/A | Lemony, Lemongrass, lemon-cream flavor. | Southern Cross|
@@ -99,7 +99,7 @@
 | **Sticklebract** (NZ) | 11 - 14% | N/A | N/A | Piney, citrus. Harsher bittering. | N/A|
 | **Strisselspalt** (France) | 3 - 5% | N/A | N/A | Mild Noble-like flavor, spicy, herbal. | Hersbrucker, Hallertau |
 | **Styrian Goldings** (Slovenia) | 4.5 - 6% | N/A | N/A | Mild, spicy aroma. | Aurora, Fuggle, Williamette|
-| **Summer** (AUS) | 4 - 7% | 4.8 - 6.1% | 23 - 25% | Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. Click through for notes on my Summer hopped pale ale. | Possibly Rakau, Amarillo|
+| **Summer** (AUS) | 4 - 7% | 4.8 - 6.1% | 23 - 25% | Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. [Click](http://www.bear-flavored.com/2013/07/recipe-and-tasting-notes-rye-pale-ale.html) through for notes on my Summer hopped pale ale. | Possibly Rakau, Amarillo|
 | **Summit** (US) | 17 - 19% | N/A | N/A | Smooth bittering with orange, tangerine, citrus character. | Apollo|
 | **Super Pride** (AUS) | 9 - 10.5% | 5.5 - 6% | 32% | Unique, intense aroma describe as "coarse," citrusy, herbal. Ubiquitous Australian hop. | Cluster, Galena |
 | **Sun** (US) | 12 - 16% | N/A | N/A | N/A | N/A|
