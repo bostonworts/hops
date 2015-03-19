@@ -51,7 +51,7 @@ Characteristics: Fresh citrus, tangerine, mango, grapefruit, piney, spicy, pinea
 AA Range: 12%  
 Beta: N/A  
 Cohumulone: N/A  
-Characteristics: Clean fruity hoppiness; strawberry, melon, mild citrus. Click through for my experience with Belma in a single hop IPA.  
+Characteristics: Clean fruity hoppiness; strawberry, melon, mild citrus. [Click](http://www.bear-flavored.com/2012/12/recipe-and-tasting-notes-belma-single.html) through for my experience with Belma in a single hop IPA.  
 *Substitutes*: Pacific Gem
 
 **Bramling Cross** (UK)  
@@ -226,7 +226,7 @@ Characteristics: Woody, earthy. Mildly spicy.
 AA Range: 13 - 15%  
 Beta: 5.8 - 6%  
 Cohumulone: 35%  
-Characteristics: Tropical passionfruit, citrus hints of peach, mango. Similar to Citra but more fruity, less dank. For notes on my Galaxy single hop IPA, click here.  
+Characteristics: Tropical passionfruit, citrus hints of peach, mango. Similar to Citra but more fruity, less dank. For notes on my Galaxy single hop IPA, click [here](http://www.bear-flavored.com/2012/03/bear-flavored-galaxy-single-hop-ipa.html).  
 *Substitutes*:  Citra, Amarillo, Centennial
 
 **Galena** (UK)  
@@ -394,7 +394,7 @@ Characteristics: Clean bittering, with herbal aroma.
 AA Range: 10 - 12%  
 Beta: 3.2 - 3.9%  
 Cohumulone: 24 - 26%  
-Characteristics: Mango, stone fruit, berry medley, melon. Mild herbal character reported in some instances. Click through for notes on my Mosaic single hop IPA.  
+Characteristics: Mango, stone fruit, berry medley, melon. Mild herbal character reported in some instances. [Click](http://www.bear-flavored.com/2013/07/mosaic-single-hop-ipa-recipe-and.html) through for notes on my Mosaic single hop IPA.  
 *Substitutes*: Possibly a blend of Galaxy and Nelson Sauvin
 
 **Motueka** (NZ)  
@@ -422,7 +422,7 @@ Characteristics: Hallertauer with higher AA; aroma of citrus and licorice.
 AA Range: 11 - 13%  
 Beta: 6 - 8%  
 Cohumulone: 22 - 26%  
-Characteristics: White wine, grapefruit, tangy berries. Dank and intensely fruity. Click through for notes on my Nelson single hop pale ale.  
+Characteristics: White wine, grapefruit, tangy berries. Dank and intensely fruity. [Click](http://www.bear-flavored.com/2012/07/brewery-bear-flavored-style-pale-ale.html) through for notes on my Nelson single hop pale ale.  
 *Substitutes*: Extremely unique, no subs.
 
 **Newport** (US)  
@@ -464,7 +464,7 @@ Characteristics: Moderate bitterness, spicy, fruity, floral.
 AA Range: 13 - 16%  
 Beta: N/A  
 Cohumulone: N/A  
-Characteristics: Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. Click through for notes on my Pacific Gem single hop pale ale.  
+Characteristics: Clean bitterness; soft flavor with notes of strawberry, blackberry, berry medley.  Tangy citrus, melon, tangerine. [Click](http://www.bear-flavored.com/2013/08/pacific-gem-single-hop-pale-ale-recipe.html) through for notes on my Pacific Gem single hop pale ale.  
 *Substitutes*: Belma
 
 **Pacifica** (NZ)  
@@ -611,7 +611,7 @@ Characteristics: Light perfume aroma.
 AA Range: 11 - 14%  
 Beta: 4 - 5%  
 Cohumulone: 15 - 20%  
-Characteristics: Pine and citrus, sweet berries and perfume. Unique, complex flavor with very smooth bittering. Click for notes on my Simcoe single hop pale ale.  
+Characteristics: Pine and citrus, sweet berries and perfume. Unique, complex flavor with very smooth bittering. [Click](http://www.bear-flavored.com/2013/05/recipe-and-tasting-notes-simcoe-single.html) for notes on my Simcoe single hop pale ale.  
 *Substitutes*: A combination of Columbus and Centennial might come close.
 
 **Smaragd** (GER)  
@@ -695,7 +695,7 @@ Characteristics: Mild, spicy aroma.
 AA Range: 4 - 7%  
 Beta: 4.8 - 6.1%  
 Cohumulone: 23 - 25%  
-Characteristics: Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. Click through for notes on my Summer hopped pale ale.  
+Characteristics: Apricot, orange marmalade, melon notes; undercurrent of mild earth, spice. [Click](http://www.bear-flavored.com/2013/07/recipe-and-tasting-notes-rye-pale-ale.html) through for notes on my Summer hopped pale ale.  
 *Substitutes*: Possibly Rakau, Amarillo
 
 **Summit** (US)  
