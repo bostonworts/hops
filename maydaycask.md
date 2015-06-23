@@ -1,7 +1,7 @@
 This information comes from [maydaycask](http://www.maydaycask.org/an-incomplete-list-of-hops-2015/) and is compiled from the following websites as posted in February 2015.  
-	1\. http://www.hopunion.com/hop-varieties/
-	2\. http://www.nzhops.co.nz
-	3\. http://hopsteiner.com/variety-data-sheets
+	1\. http://www.hopunion.com/hop-varieties/  
+	2\. http://www.nzhops.co.nz  
+	3\. http://hopsteiner.com/variety-data-sheets  
 
 | Varietal | Origin | Perception |
 | --- | --- | --- |
