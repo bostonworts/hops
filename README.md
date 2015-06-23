@@ -1,7 +1,7 @@
 Hops
 ==================
 
-Information on hop varieties for homebrewing, as well as a place to store information gained from the club's [single hop](https://docs.google.com/spreadsheets/d/15caRgDvBB9k-uRvU9Yf_kqUggPoX4f6JgTI4d_afD7c/edit?usp=sharing) brewing experiments.
+Information on hop varieties for homebrewing, as well as a place to store information gained from the club's [single hop](https://docs.google.com/spreadsheets/d/15caRgDvBB9k-uRvU9Yf_kqUggPoX4f6JgTI4d_afD7c/edit?usp=sharing) brewing experiments.  [2015 results](2015_results.md) from the club single hop experiment.
 
 Hop Variety Data sources:  
 [Bear Flavored](http://www.bear-flavored.com/2011/12/bear-flavoreds-ultimate-guide-to-hop.html)  
